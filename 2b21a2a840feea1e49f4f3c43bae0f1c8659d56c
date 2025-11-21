@@ -16,6 +16,24 @@
       "message": "Wouldn\u0027t it be better to just commonize it?",
       "revId": "2b21a2a840feea1e49f4f3c43bae0f1c8659d56c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2c0d6769_dbceb077",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 35546
+      },
+      "writtenOn": "2025-11-21T18:21:33Z",
+      "side": 1,
+      "message": "No, because not all devices use the Goodix touch driver.",
+      "parentUuid": "d0b4209a_482310f4",
+      "revId": "2b21a2a840feea1e49f4f3c43bae0f1c8659d56c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
