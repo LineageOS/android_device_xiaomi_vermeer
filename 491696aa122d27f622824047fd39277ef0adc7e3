@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2bf74d88_b9b9f108",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 35546
+      },
+      "writtenOn": "2025-11-22T05:04:19Z",
+      "side": 1,
+      "message": "waiting https://review.lineageos.org/c/LineageOS/android_device_xiaomi_sm8550-common/+/460845",
+      "revId": "491696aa122d27f622824047fd39277ef0adc7e3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
