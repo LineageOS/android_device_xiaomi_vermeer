@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "99bf2bc5_33e8fbf3",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 875,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-12-26T17:07:38Z",
+      "side": 1,
+      "message": "remove trailing space",
+      "range": {
+        "startLine": 875,
+        "startChar": 26,
+        "endLine": 875,
+        "endChar": 27
+      },
+      "revId": "781b4ebb7812f8a1852f781a1dd52fe00f64cf5d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
